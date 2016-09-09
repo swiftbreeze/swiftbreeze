@@ -1,0 +1,10 @@
+{
+  "name": "static-sem-landing-pages",
+  "scripts": {},
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
